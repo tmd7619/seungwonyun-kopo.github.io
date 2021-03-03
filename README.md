@@ -5,7 +5,7 @@
 ## 프로젝트 주제
 미정~
 ## 전체 설계도
-<img src= ""/><br>
+<img src= "architecture.png"/><br>
 [발표자료](project.pptx)<br>
 ## 발표동영상
 발표 동영상입니다.
