@@ -7,7 +7,7 @@
 
 ## 전체 설계도
 
-[발표자료](project.pptx)<br>
+[발표자료]()<br>
 ## 발표동영상
 발표 동영상입니다.
 <iframe id="ytplayer" type="text/html" width="640" height="360"
