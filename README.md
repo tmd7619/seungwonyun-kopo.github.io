@@ -1,7 +1,7 @@
 
 # 윤승원의  github 홈페이지
 <br>
-<h2>🛠 Tech Stack 🛠</h3>
+<h2>🛠 Tech Stack 🛠</h2>
 
 ## 프로젝트 주제
 
@@ -11,6 +11,6 @@
 ## 발표동영상
 발표 동영상입니다.
 <iframe id="ytplayer" type="text/html" width="640" height="360"
-src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
+src="" frameborder="0"></iframe>
 ## Reference
 [검색엔진](https://google.com)
