@@ -2,7 +2,7 @@
 # 윤승원의  github 홈페이지
 <br>
 <h2>🛠 Tech Stack 🛠</h2>
-<img src="https://img.shields.io/badge/Python-17447??&logoWidth=30&style=for-the-badge&logo=c&logoColor=white&fontcolor=white"/>
+<img src="https://img.shields.io/badge/Python-17447??&logoWidth=30&style=for-the-badge&logo=&logoColor=white&fontcolor=white"/>
 ## 프로젝트 주제
 
 ## 전체 설계도
