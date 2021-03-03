@@ -1,7 +1,7 @@
 
 # 윤승원의  github 홈페이지
 <br>
-<h3>🛠 Tech Stack 🛠</h3>
+<h2>🛠 Tech Stack 🛠</h3>
 
 ## 프로젝트 주제
 미정~
